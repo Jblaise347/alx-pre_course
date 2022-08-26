@@ -1,2 +1,1 @@
-My first readme
-Good Software Engineer
+My first readme file has been updated
