@@ -1,2 +1,2 @@
 My first readme
-Making progress
+Good Software Engineer
